@@ -1,0 +1,11 @@
+#plansza tr {
+    height: 50px;
+}
+
+#plansza td {
+    width: 50px;
+}
+
+body {
+    margin: 10px 20px ;
+}
