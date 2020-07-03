@@ -1,4 +1,4 @@
-# Project for PHP Classes
+# Project for PHP classes
 
 Project made in PHP and Bootstrap.
 
